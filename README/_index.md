@@ -1,8 +1,7 @@
 ---
 title: wiki
+order: 0.3
 ---
-
-
 
 ## Getting started
 
