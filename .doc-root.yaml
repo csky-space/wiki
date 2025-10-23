@@ -1,5 +1,10 @@
-title: wiki
+title: Wiki
 optionalCategoryIndex: true
 language: ru
 supportedLanguages:
   - ru
+  - en
+properties: []
+logo: CSky logo bl frame.svg
+logo_dark: CSky logo wh frame.svg
+description: CSKY support Wiki
