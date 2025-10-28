@@ -12,4 +12,4 @@ title: Схема подключение полетного контроллер
 
 -  выбираем протокол RCIN (23) ( Configex->Full Parameter list-> Serial ).
 
-![](./podklyuchenie-poletnogo-kontrollera-po-crsf.png "Подключение полетного контроллера по CRSF."){width=1824px height=978px}
+   [image:./podklyuchenie-poletnogo-kontrollera-po-crsf.webp:::5.138965996380391,11.522047363798064,94.6597536533268,73.54195663066172:::1568px:1133px:center]
