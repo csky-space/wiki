@@ -1,5 +1,6 @@
 ---
 order: 4
-title: Вики
+title: Astra
 ---
 
+[view:hierarchy=none::::List]
