@@ -1,7 +1,9 @@
 ---
 order: 1
-title: IP Камера
+title: Камера SIYI R1M
 ---
+
+
 
 [view:hierarchy=none::::List]
 
@@ -100,5 +102,3 @@ title: IP Камера
       IP4X
 
    {% /table %}
-
-

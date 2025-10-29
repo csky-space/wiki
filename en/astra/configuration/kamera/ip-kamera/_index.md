@@ -1,5 +1,5 @@
 ---
 order: 1
-external: IP Камера
+external: Камера SIYI R1M
 ---
 
