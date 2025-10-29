@@ -5,7 +5,7 @@ title: Прошивка
 
 Начало работы:
 
--  Скачать [прошивку]()
+-  Скачать [прошивку](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-pi4-latest.zip)
 
 -  Скачать приложение для прошивки Raspberry Pi Imager
 
