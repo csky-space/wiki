@@ -25,7 +25,7 @@ title: Камера SIYI R1M
 
    *  {% colwidth=[257] %}
 
-      Параметры
+      Параметр
 
    *  {% colwidth=[278] align="left" %}
 
