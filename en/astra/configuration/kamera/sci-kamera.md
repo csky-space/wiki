@@ -1,5 +1,5 @@
 ---
 order: 2
-external: IP Камера
+external: " Камера Module SC3336 3MP"
 ---
 
