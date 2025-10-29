@@ -9,8 +9,8 @@ title: Mission Planner
 
 -  После активации и настройки системы связи ‘‘Astra’‘ заходим в M.P.. Выбираем подключение Astra и скорость которую мы указывали в настройках микрокомпьютера, после чего нажимаем Connect. В открывшемся окне в поле логин вводим e-mail, указанный при регистрации в личном кабинете и пароль.
 
-   ![](./mission-planner.png "Mission Planner"){width=2557px height=1524px}
+   [image:./mission-planner.png::Mission Planner:0,0,100,100:100::2557px:1524px:center]
 
 Если все правильно будет выполнено, то будет установлена связь с дроном.
 
-![](./mission-planner.jpg "Связь с дроном"){width=1366px height=768px}
+[image:./mission-planner.jpg::Связь с дроном:0,0,100,100:100::1366px:768px:center]
