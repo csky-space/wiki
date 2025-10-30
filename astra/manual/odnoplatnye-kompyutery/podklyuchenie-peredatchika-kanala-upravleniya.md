@@ -13,5 +13,3 @@ title: Подключение передатчика канала управле
 ![](./podklyuchenie-peredatchika-kanala-upravleniya.png "Подключение передатчика канала управления."){width=1584px height=985px}
 
 :::
-
-
