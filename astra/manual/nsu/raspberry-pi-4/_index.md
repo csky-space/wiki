@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 0.5
 title: Raspberry Pi 4
 ---
 
@@ -14,5 +14,3 @@ title: Raspberry Pi 4
 
 
 :::
-
-
