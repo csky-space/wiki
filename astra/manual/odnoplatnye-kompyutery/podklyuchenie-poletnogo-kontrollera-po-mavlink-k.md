@@ -13,7 +13,11 @@ SYSID_MYGCS : 255\
 RC_OVERRIDE_TIME : 1-3 секунды (время через которое после потери сигнала автопилот переключится на обычную связь или сработает failsafe)\
 RC_OPTIONS : снимите флаг ignore MAVLink Overrides если он используется
 
-![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k.png "Подключение полетного контроллера по Mavlink к Ardupilot или Inav (6 и выше)."){width=1503px height=831px}
+:::info:true LuckFox Pico Ultra W
+
+![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k.png){width=1757px height=929px}
+
+:::
 
 :::lab 
 
