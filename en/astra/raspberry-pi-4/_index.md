@@ -1,5 +1,5 @@
 ---
-order: 0.5
+order: 6.5
 external: Raspberry Pi 4
 ---
 

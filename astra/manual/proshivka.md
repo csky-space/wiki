@@ -3,6 +3,8 @@ order: 1.5
 title: Прошивка
 ---
 
+:::info:true LuckFox Pico Ultra W
+
 Начало работы:
 
 -  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-latest.zip)
@@ -24,3 +26,11 @@ title: Прошивка
 -  Нажмите **Upgrade** и дождитесь завершения установки
 
 -  После завершения прошивки **отключите питание по USB**
+
+
+
+
+
+:::
+
+
