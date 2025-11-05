@@ -11,6 +11,12 @@ SYSID_MYGCS : 255\
 RC_OVERRIDE_TIME : 1-3 секунды (время через которое после потери сигнала автопилот переключится на обычную связь или сработает failsafe)\
 RC_OPTIONS : снимите флаг ignore MAVLink Overrides если он используется
 
+:::info:true LuckFox Pico Ultra W
+
+![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-4.png){width=1757px height=929px}
+
+:::
+
 :::info:true LuckFox Pico Pro max
 
 ![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-3.png){width=1370px height=1179px}
@@ -20,12 +26,6 @@ RC_OPTIONS : снимите флаг ignore MAVLink Overrides если он ис
 :::info:true Raspberry Pi 4
 
 ![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-2.png){width=1258px height=1081px}
-
-:::
-
-:::info:true LuckFox Pico Ultra W
-
-![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k.png){width=1757px height=929px}
 
 :::
 
