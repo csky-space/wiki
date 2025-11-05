@@ -11,19 +11,21 @@ SYSID_MYGCS : 255\
 RC_OVERRIDE_TIME : 1-3 секунды (время через которое после потери сигнала автопилот переключится на обычную связь или сработает failsafe)\
 RC_OPTIONS : снимите флаг ignore MAVLink Overrides если он используется
 
+:::info:true Raspberry Pi 4
+
+
+
+:::
+
 :::info:true LuckFox Pico Ultra W
 
 ![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k.png){width=1757px height=929px}
 
 :::
 
-:::lab 
+:::note 
 
 ВАЖНО: Необходимо полетный контроллер и LuckFox Pico Ultra W должны быть настроены на одну скорость. Полетный контроллер подключаем через USB к компьютеру и в Mission Planner настроить скорость и протокол (onfigex->Full Parameter list-> Serial)
-
-:::
-
-:::lab 
 
 ВАЖНО: Настройка полетного контроллера осуществляется без подачи внешнего питания.
 

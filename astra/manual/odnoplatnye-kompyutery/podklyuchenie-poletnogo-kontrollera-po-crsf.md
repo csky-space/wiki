@@ -13,8 +13,16 @@ title: Подключение полетного контроллера по CRS
 
 -  выбираем протокол RCIN (23) ( Configex->Full Parameter list-> Serial ).
 
+   :::info:true Raspberry Pi 4
+
+   
+
+   :::
+
    :::info:true LuckFox Pico Ultra W
 
    ![](./podklyuchenie-poletnogo-kontrollera-po-crsf.png){width=1824px height=1055px}
 
    :::
+
+
