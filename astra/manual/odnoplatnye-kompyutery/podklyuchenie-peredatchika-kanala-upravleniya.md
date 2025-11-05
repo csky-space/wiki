@@ -8,6 +8,12 @@ title: Подключение передатчика канала управле
 \
 Для передатчика ELRS может потребоваться убрать настройку **UART inverted** в режиме настройки через wifi.
 
+:::info:true Raspberry Pi 4
+
+![](./podklyuchenie-peredatchika-kanala-upravleniya-3.png){width=1260px height=1076px}
+
+:::
+
 :::info:true LuckFox Pico Ultra W
 
 
@@ -15,5 +21,3 @@ title: Подключение передатчика канала управле
 ![](./podklyuchenie-peredatchika-kanala-upravleniya.png "Подключение передатчика канала управления."){width=1584px height=985px}
 
 :::
-
-

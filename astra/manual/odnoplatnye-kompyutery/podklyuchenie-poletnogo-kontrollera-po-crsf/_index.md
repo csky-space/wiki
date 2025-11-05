@@ -15,7 +15,7 @@ title: Подключение полетного контроллера по CRS
 
    :::info:true Raspberry Pi 4
 
-   
+   ![](./podklyuchenie-poletnogo-kontrollera-po-crsf.png){width=1258px height=1087px}
 
    :::
 

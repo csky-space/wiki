@@ -13,7 +13,7 @@ RC_OPTIONS : снимите флаг ignore MAVLink Overrides если он ис
 
 :::info:true Raspberry Pi 4
 
-
+![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-2.png){width=1258px height=1081px}
 
 :::
 
