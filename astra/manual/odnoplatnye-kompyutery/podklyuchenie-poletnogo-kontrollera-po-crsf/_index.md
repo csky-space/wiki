@@ -21,8 +21,6 @@ title: Подключение полетного контроллера по CRS
 
    :::info:true LuckFox Pico Ultra W
 
-   ![](./podklyuchenie-poletnogo-kontrollera-po-crsf.png){width=1824px height=1055px}
+   ![](./_index.png){width=1824px height=1055px}
 
    :::
-
-
