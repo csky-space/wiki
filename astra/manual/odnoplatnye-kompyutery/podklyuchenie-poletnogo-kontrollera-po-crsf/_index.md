@@ -6,6 +6,8 @@ title: Подключение полетного контроллера по CRS
 Подключаем TX, RX и GND к полетному контроллеру, как показано на схеме.\
 \
 В настройках Astra указываем скорость CRSF: 420000; CRSF: полетный контроллер. После настройки полетного контроллера и Luckfox Pico Ultra W\
+Для INAV:
+
 \
 Для Ardupilot:
 
@@ -30,3 +32,5 @@ title: Подключение полетного контроллера по CRS
    ![](./podklyuchenie-poletnogo-kontrollera-po-crsf-3.png){width=1260px height=1076px}
 
    :::
+
+
