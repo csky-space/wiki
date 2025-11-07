@@ -1,9 +1,7 @@
 ---
 order: 1
-title: Камера SIYI R1M
+title: Камера IP
 ---
-
-
 
 [view:hierarchy=none::::List]
 
