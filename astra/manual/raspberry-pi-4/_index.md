@@ -3,4 +3,4 @@ order: 4
 title: Raspberry Pi 4
 ---
 
-![](./_index.png){width=497px height=494px}
+![](./raspberry-pi-4.jpg){width=506px height=506px}

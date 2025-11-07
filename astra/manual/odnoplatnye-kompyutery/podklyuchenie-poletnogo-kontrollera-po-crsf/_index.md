@@ -5,16 +5,16 @@ title: Подключение полетного контроллера по CRS
 
 Подключаем TX, RX и GND к полетному контроллеру, как показано на схеме.\
 \
-В настройках Astra указываем скорость CRSF: **420000**; CRSF: **полетный контроллер**. После настройки полетного контроллера и Luckfox Pico Ultra W\
+В выпавшем окне Astra указываем скорость CRSF: **420000**; CRSF: **полетный контроллер**. После настройки полетного контроллера и Luckfox Pico Ultra W\
 [highlight:peach]Для INAV[/highlight]  :
 
--  [comment:CMW1w]Вкладка **Ports**->Активировать **Serial RX** для выбранного порта[/comment]
+-  Вкладка **Ports**->Активировать **Serial RX** для выбранного порта
 
--  [comment:CMW1w]Вкладка **Receiver**-> Receiver Mode: **Serial**->Seriak Receiver Provider: **CRSF**[/comment]
+-  Вкладка **Receiver**-> Receiver Mode: **Serial**->Seriak Receiver Provider: **CRSF**
 
--  [comment:CMW1w]Вкладка **Configuration**-> Убедиться, что **Telemetry** включена[/comment]
+-  Вкладка **Configuration**-> Убедиться, что **Telemetry** включена
 
-   [comment:CMW1w]Сохранить и перезапустить[/comment]
+   Сохранить и перезапустить
 
 [highlight:lemon-yellow]Для Ardupilot[/highlight]:
 
