@@ -5,7 +5,7 @@ title: Прошивка
 
 Начало работы:
 
--  Скачать [прошивку](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-pi4-latest.zip)
+-  Скачать [прошивку](https://ftp.air-link.space/downloads/astra/firmware/)
 
 -  Скачать приложение для прошивки Raspberry Pi Imager
 
@@ -18,3 +18,5 @@ title: Прошивка
    Операционная система: csky_raspos64_pi4-1.5.0-prealpha.img
 
    Запоминающее устройство: название карты памяти.
+
+
