@@ -12,15 +12,13 @@ title: Подключение полетного контроллера по CRS
 
 -  Вкладка **Receiver**-> Receiver Mode: **Serial**->Seriak Receiver Provider: **CRSF**
 
--  Вкладка **Configuration**-> Убедиться, что **Telemetry** включена
-
    Сохранить и перезапустить
 
 [highlight:lemon-yellow]Для Ardupilot[/highlight]:
 
 -  устанавливаем скорость полетного контроллера: **57600**
 
--  выбираем протокол **RCIN (23)** ( Configex->Full Parameter list-> Serial )
+-  выбираем протокол **RCIN (23)** ( Config->Full Parameter list-> Serial )
 
    :::info:true LuckFox Pico Ultra W
 
