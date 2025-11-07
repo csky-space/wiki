@@ -8,9 +8,13 @@ title: Подключение полетного контроллера по CRS
 В настройках Astra указываем скорость CRSF: 420000; CRSF: полетный контроллер. После настройки полетного контроллера и Luckfox Pico Ultra W\
 Для INAV  :
 
--  Порты-> UART X->Serial RX-> выбираем-> Сохранить и перезагрузить
+-  Вкладка Ports->Активировать Serial RX для выбранного порта
 
--   
+-  Вкладка Receiver-> Receiver Mode: Serial->Seriak Receiver Provider: CRSF
+
+-  Вкладка Configuration-> Убедиться, что Telemetry включена
+
+   Сохранить и перезапустить  
 
 Для Ardupilot:
 
