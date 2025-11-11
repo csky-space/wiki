@@ -24,6 +24,6 @@ title: Подключение передатчика канала управле
 
 :::info:true Raspberry Pi 4
 
-![](./podklyuchenie-peredatchika-kanala-upravleniya-4.png){width=1258px height=1087px}
+![](./podklyuchenie-peredatchika-kanala-upravleniya-5.png){width=1568px height=1354px}
 
 :::
