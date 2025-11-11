@@ -10,13 +10,13 @@ title: Подключение передатчика канала управле
 
 :::info:true LuckFox Pico Ultra W
 
-![](./podklyuchenie-peredatchika-kanala-upravleniya.png){width=1584px height=985px}
+[image:./podklyuchenie-peredatchika-kanala-upravleniya-6.png:::19.254403010619132,16.020102128578852,80.72385863137505,68.71121928585774:::1568px:1133px:center]
 
 :::
 
 :::info:true LuckFox Pico Pro max
 
-[image:./podklyuchenie-peredatchika-kanala-upravleniya-2.png:::17.26120929578794,8.26036516004847,82.6608221556056,81.3520811216895:::1374px:1177px:center]
+[image:./podklyuchenie-peredatchika-kanala-upravleniya-7.png:::18.5837510484506,12.766018883711272,81.35793336908897,73.71750120103863:::1568px:1354px:center]
 
 
 

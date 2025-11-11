@@ -22,13 +22,13 @@ title: Подключение полетного контроллера по CRS
 
    :::info:true LuckFox Pico Ultra W
 
-   ![](./podklyuchenie-poletnogo-kontrollera-po-crsf-4.png){width=1824px height=1055px}
+   [image:./podklyuchenie-poletnogo-kontrollera-po-crsf-6.png:::6.59892685340468,17.897457846771687,93.3793347885895,65.83260718462873:::1568px:1133px:center]
 
    :::
 
    :::info:true LuckFox Pico Pro max
 
-   ![](./podklyuchenie-poletnogo-kontrollera-po-crsf-2.png){width=1369px height=1167px}
+   [image:./podklyuchenie-poletnogo-kontrollera-po-crsf-7.png:::0,13.266647075229363,99.94168441753956,74.46844348831576:::1568px:1354px:center]
 
    :::
 
