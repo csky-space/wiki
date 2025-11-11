@@ -25,7 +25,7 @@ title: Подключение полетного контроллера по Mav
 
 :::info:true Raspberry Pi 4
 
-![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-2.png){width=1258px height=1081px}
+![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k.png){width=1396px height=1204px}
 
 :::
 
