@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Raspberry Pi 4
+title: Raspberry Pi 4 и 5
 ---
 
-![](./raspberry-pi-4.jpg){width=506px height=506px}
+[image:./raspberry-pi-4.png:::0,0,100,100:84::1196px:1963px:center]
