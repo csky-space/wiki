@@ -10,13 +10,13 @@ title: Подключение передатчика канала управле
 
 :::info:true LuckFox Pico Ultra W
 
-[image:./podklyuchenie-peredatchika-kanala-upravleniya-6.png:::19.254403010619132,16.020102128578852,80.72385863137505,68.71121928585774:::1568px:1133px:center]
+[image:./podklyuchenie-peredatchika-kanala-upravleniya-13.png:::18.671601891836314,14.69248291571754,81.26670779354308,69.70387243735763:::1568px:1133px:center]
 
 :::
 
 :::info:true LuckFox Pico Pro max
 
-[image:./podklyuchenie-peredatchika-kanala-upravleniya-7.png:::18.5837510484506,12.766018883711272,81.35793336908897,73.71750120103863:::1568px:1354px:center]
+[image:./podklyuchenie-peredatchika-kanala-upravleniya-14.png:::22.223587978612255,13.895216400911162,77.58588900497818,73.00683371298405:::1568px:1354px:center]
 
 
 
@@ -24,12 +24,12 @@ title: Подключение передатчика канала управле
 
 :::info:true Raspberry Pi 4
 
-![](./podklyuchenie-peredatchika-kanala-upravleniya-10.png){width=1568px height=1354px}
+![](./podklyuchenie-peredatchika-kanala-upravleniya-8.png){width=1568px height=1354px}
 
 :::
 
 :::info:true Raspberry Pi 5
 
-![](./podklyuchenie-peredatchika-kanala-upravleniya-11.png){width=1568px height=1354px}
+![](./podklyuchenie-peredatchika-kanala-upravleniya-9.png){width=1568px height=1354px}
 
 :::

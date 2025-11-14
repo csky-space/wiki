@@ -19,7 +19,7 @@ title: Подключение полетного контроллера по Mav
 
 :::info:true LuckFox Pico Pro max
 
-![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-8.png){width=1568px height=1354px}
+[image:./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-8.png:::3.6383750230471392,14.80637813211845,96.1711019605433,76.65148063781321:::1568px:1354px:center]
 
 :::
 

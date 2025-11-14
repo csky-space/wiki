@@ -3,4 +3,8 @@ order: 4
 title: Raspberry Pi 4 и 5
 ---
 
-[image:./raspberry-pi-4.png:::0,0,100,100:84::1196px:1963px:center]
+[image:./raspberry-pi.png::Raspberry Pi 4 :34.02372318849487,9.225512528473805,63.22905783295434,79.15717539863326:::1568px:1354px:center]
+
+[image:./raspberry-pi-2.png::Raspberry Pi 5:37.662098211542,10.250569476082005,59.492348349824844,79.27107061503416:::1568px:1354px:center]
+
+
