@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Raspberry Pi Imager
+title: Через Raspberry Pi Imager
 ---
 
 Начало работы:

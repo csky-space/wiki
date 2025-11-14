@@ -1,5 +1,5 @@
 ---
 order: 1
-external: Raspberry Pi Imager
+external: Через Raspberry Pi Imager
 ---
 

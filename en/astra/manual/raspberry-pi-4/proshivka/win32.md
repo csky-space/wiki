@@ -1,5 +1,5 @@
 ---
 order: 2
-external: Win32 Disk Imager
+external: Через Win32 Disk Imager
 ---
 
