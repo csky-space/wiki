@@ -3,4 +3,4 @@ order: 5
 title: LuckFox Pico Pro Max
 ---
 
-[image:./luckfox-pro-max-3.png:::49.87539393003424,10.592255125284739,50.07813943381486,74.82915717539863:::1568px:1396px:center]
+[image:./luckfox-pro-max-5.png:::14.154152574424725,0,73.33411333835802,99.87532420785878:::1568px:1396px:center]

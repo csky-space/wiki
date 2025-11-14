@@ -25,20 +25,18 @@ title: Подключение полетного контроллера по Mav
 
 :::info:true Raspberry Pi 4
 
-![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-13.png){width=1568px height=1354px}
+![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-17.png){width=1568px height=1354px}
 
 :::
 
 :::info:true Raspberry Pi 5
 
-![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-14.png){width=1568px height=1354px}
+![](./podklyuchenie-poletnogo-kontrollera-po-mavlink-k-18.png){width=1568px height=1354px}
 
 :::
 
 :::note:true Важно
 
 Необходимо полетный контроллер и LuckFox Pico Ultra W должны быть настроены на одну скорость. Полетный контроллер подключаем через USB к компьютеру и в Mission Planner настроить скорость и протокол (onfigex->Full Parameter list-> Serial)
-
-ВАЖНО: Настройка полетного контроллера осуществляется без подачи внешнего питания.
 
 :::
