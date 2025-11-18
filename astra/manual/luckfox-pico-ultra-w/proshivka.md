@@ -5,7 +5,7 @@ title: Прошивка
 
 Начало работы:
 
--  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/)
+-  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-latest.zip)
 
 -  Скачать [SocToolKit](https://ftp.air-link.space/downloads/astra/) и установить [драйвер](https://ftp.air-link.space/downloads/astra/) для Windows
 
@@ -29,8 +29,4 @@ title: Прошивка
 
    Для прошивки рекомендуем использовать кабель из комплекта
 
-   
-
    :::
-
-
