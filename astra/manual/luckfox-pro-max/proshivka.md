@@ -3,7 +3,7 @@ order: 1
 title: Прошивка
 ---
 
--  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/)
+-  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-latest.zip)
 
 -  Скачать **Win32 Disk Imager**
 
@@ -14,5 +14,3 @@ title: Прошивка
 -  Выбор прошивки: значок папки в поле Image File-> выбрать прошивку-> дождитесь надписи «Write Successful»
 
 -  После завершения прошивки закройте программу и извлеките носитель
-
-
