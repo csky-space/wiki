@@ -3,7 +3,7 @@ order: 1
 title: Прошивка
 ---
 
--  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-latest.zip)
+-  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/sd_card_astra_eye_max-latest.zip)
 
 -  Скачать **Win32 Disk Imager**
 
