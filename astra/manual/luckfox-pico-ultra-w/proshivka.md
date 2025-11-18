@@ -7,7 +7,7 @@ title: Прошивка
 
 -  Скачать прошивку по [ссылке](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-latest.zip)
 
--  Скачать [SocToolKit](https://ftp.air-link.space/downloads/astra/) и установить [драйвер](https://ftp.air-link.space/downloads/astra/) для Windows
+-  Скачать [SocToolKit](https://ftp.air-link.space/downloads/astra/SocToolKit_v1.98_20240705_01_win.zip) и установить [драйвер](https://ftp.air-link.space/downloads/astra/DriverAssitant_v5.12.zip) для Windows
 
 -  Подключите плату к компьютеру с помощью **USB Type-C кабеля** из комплекта
 
