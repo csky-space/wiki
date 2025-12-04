@@ -1,6 +1,6 @@
 ---
 order: 0.8
-title: Подключение  по Mavlink к Ardupilot или Inav (6 и выше)
+title: " Mavlink подключение полетного контроллера к Ardupilot или Inav (6 и выше)\_"
 ---
 
 Подключаем TX, RX и GND к полетному контроллеру, как показано на схеме. В Mission Planner устанавливаем скорость полетного контроллера: **115200 (115)** и протокол **MAVLink2 (2)** (Config->Full Parameter list-> SerialX).\
