@@ -1,8 +1,6 @@
 ---
-order: 6
+order: 3
 title: Практическое руководство
 ---
 
 [view:hierarchy=none::::List]
-
-
