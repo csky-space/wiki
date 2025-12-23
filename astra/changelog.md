@@ -55,6 +55,6 @@ title: Обновления
 
 -  Интерфейс настройки Astra
 
--  Установка параметров через Mavlink(MAVLINK_MSG_ID_PARAM_SET)
+-  Установка параметров ardupilot через Mission Planner или QGC(MAVLINK_MSG_ID_PARAM_SET)
 
 :::
