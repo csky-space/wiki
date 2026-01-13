@@ -3,6 +3,40 @@ order: 7
 title: Обновления
 ---
 
+:::lab:true Astra 1.7.4
+
+## Astra 1.7.4
+
+### Основные изменения
+
+-  Добавлен инструмент для работы со Starlink. Включает запрет на использование встроенного GPS, что позволяет использовать только позиционирование по спутникам Starlink
+
+### Исправлено
+
+-  Игнорирование доступности сети
+
+-  Небольшие изменения в интерфейсе настройки Astra
+
+**Ссылки на прошивки:**
+
+[LuckFox Pico Ultra W](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-1.7.4-prerelease.zip)
+
+[Raspberry Pi 4 и 5](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-1.7.4-prerelease.zip)
+
+[LuckFox Pico Pro Max](https://ftp.air-link.space/downloads/astra/firmware/sd_card_astra_eye_max-1.7.4-prerelease.zip)
+
+:::
+
+:::lab:true Astra 1.7.3
+
+## Astra 1.7.3
+
+### Исправлено
+
+-  Небольшие изменения в интерфейсе настройки Astra
+
+:::
+
 :::lab:true Astra 1.7.2
 
 ## Astra 1.7.2
