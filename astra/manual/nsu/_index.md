@@ -1,8 +1,6 @@
 ---
 order: 1
-title: НСУ
+title: Наземная станция управления
 ---
 
 [view:hierarchy=none::::List]
-
-
