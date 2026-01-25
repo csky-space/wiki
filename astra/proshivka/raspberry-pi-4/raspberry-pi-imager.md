@@ -1,9 +1,9 @@
 ---
-order: 1
-title: Через Raspberry Pi Imager
+order: 0.5
+title: С помощью Raspberry Pi Imager
 ---
 
-Начало работы:
+Для прошивки Raspberry Pi с помощью Raspberry Pi Imager необходимо:
 
 -  Скачать [прошивку](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-latest.zip)
 

@@ -1,7 +1,9 @@
 ---
-order: 2
-title: Через Win32 Disk Imager
+order: 0.8
+title: С помощью Win32 Disk Imager
 ---
+
+Для прошивки Raspberry Pi с помощью Win32 Disk Imager необходимо:
 
 -  Скачать [прошивку](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-latest.zip)
 
