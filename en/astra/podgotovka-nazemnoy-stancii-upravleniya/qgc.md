@@ -1,5 +1,5 @@
 ---
 order: 0.5
-external: QGC
+external: "QGroundControl "
 ---
 
