@@ -3,6 +3,8 @@ order: 1.9
 title: LuckFox Pico Ultra W
 ---
 
+
+
 :::info:true LuckFox Pico Ultra W
 
 ![](./luckfox-pico-ultra-w-2.jpg){width=995px height=654px}
@@ -15,6 +17,8 @@ title: LuckFox Pico Ultra W
 
 -  Скачать [SocToolKit](https://ftp.air-link.space/downloads/astra/SocToolKit_v1.98_20240705_01_win.zip) и установить [драйвер](https://ftp.air-link.space/downloads/astra/DriverAssitant_v5.12.zip) для Windows
 
+[image:./luckfox-pico-ultra-w-5.png::Установка драйвера RK Driver Assitant v5.12:0,0,100,100:56::758px:399px:center]
+
 -  Подключить плату к компьютеру с помощью **USB Type-C кабеля** из комплекта
 
 -  Перевести устройство в режим прошивки: Зажать кнопку **Reset**. Не отпуская Reset, зажать кнопку **Boot**. Отпустить **Reset**, затем отпустить **Boot.**
@@ -23,19 +27,17 @@ title: LuckFox Pico Ultra W
 
 -  В открывшемся окне из выпадающего списка выбрать чип **RV1106**
 
-[image:./luckfox-pico-ultra-w-3.png::Выбор чипа RV1106:0,0,100,100:75::758px:399px:center]
+[image:./luckfox-pico-ultra-w-6.png::Выбор чипа RV1106:0,0,100,100:69::1024px:628px:center]
 
 -  В левом верхнем углу выбрать интерфейс **USB**. В выпадающем списке появится устройство с меткой **"Maskrom..."** -- выберите его
 
 -  Нажать кнопку **Firmware...** и выбрать файл прошивки update.img
 
-[image:./luckfox-pico-ultra-w-2.png::Выбор интерфейса и метки:0,0,100,100:74::910px:642px:center]
-
-
+[image:./luckfox-pico-ultra-w-3.png::Выбор интерфейса и файла прошивки:0,0,100,100:62::1022px:627px:center]
 
 -  Нажать **Upgrade** и дождаться завершения установки
 
-[image:./luckfox-pico-ultra-w-4.png:: Успешное завершение установки:0,0,100,100:74::1185px:587px:center]
+[image:./luckfox-pico-ultra-w-2.png::Успешное завершение установки:0,0,100,100:54::1023px:627px:center]
 
 -  После завершения прошивки **отключить питание по USB**
 
