@@ -3,6 +3,28 @@ order: 7
 title: Обновления
 ---
 
+:::lab:true Astra 1.7.5
+
+### Основные изменения
+
+-  Доработан инструмент для работы со Starlink. Перемещена настройка `Использовать собственное созвездие` в основное меню
+
+-  Переработан интерфейс настройки Astra
+
+### Исправлено
+
+-  Управление через браузер без камер
+
+**Ссылки на прошивки:**
+
+[LuckFox Pico Ultra W](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-1.7.5-prerelease.zip)
+
+[Raspberry Pi 4 и 5](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-1.7.5-prerelease.zip)
+
+[LuckFox Pico Pro Max](https://ftp.air-link.space/downloads/astra/firmware/sd_card_astra_eye_max-1.7.5-prerelease.zip)
+
+:::
+
 :::lab:true Astra 1.7.4
 
 ## Astra 1.7.4
