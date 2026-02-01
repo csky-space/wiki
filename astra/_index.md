@@ -23,12 +23,11 @@ title: Astra
 
 ## Система управления Astra обеспечивает полную совместимость с одноплатными компьютерами:
 
--  LuckFox Pico Ultra W;
+-  [LuckFox Pico Ultra W](https://app.gram.ax/github.com/csky-space/wiki/docs%2Fv1.0.x/-/astra/proshivka/luckfox-pico-ultra-w);
 
--  LuckFox Pico Pro Max;
+-  [LuckFox Pico Pro Max](https://app.gram.ax/github.com/csky-space/wiki/docs%2Fv1.0.x/-/astra/proshivka/luckfox-pro-max);
 
--   Raspberry Pi 4 и 5.
-
+-  [aspberry Pi 4 и 5](https://app.gram.ax/github.com/csky-space/wiki/docs%2Fv1.0.x/-/astra/proshivka/raspberry-pi-4).
 
 
 **Область применения:** беспилотные летательные аппараты
