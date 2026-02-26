@@ -23,6 +23,12 @@ title: Обновления
 
 -  Исправлено поведение CSI-камер на Raspberry Pi 4/5. Теперь поддерживается больше разрешений кадра. Исправлена работа с выравниванием размера строки (stride)
 
+**Ссылки на прошивки:**
+
+[LuckFox Pico Ultra W](https://ftp.air-link.space/downloads/astra/firmware/astra_eye_ultra_w-1.8.1-experimental.zip)
+
+[Raspberry Pi 4 и 5](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-1.8.1-experimental.zip)
+
 :::
 
 :::lab:true Astra 1.8.0
