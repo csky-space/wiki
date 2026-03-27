@@ -4,5 +4,3 @@ title: Способы подключения
 ---
 
 [view:hierarchy=none::::List]
-
-
