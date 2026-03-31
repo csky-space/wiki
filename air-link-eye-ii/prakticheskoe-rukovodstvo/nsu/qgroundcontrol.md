@@ -3,7 +3,7 @@ order: 2
 title: QGroundControl
 ---
 
--  Скачать для :
+-  **Скачать для :**
 
    -  [Windows](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_windows_amd64_latest.exe)
 
