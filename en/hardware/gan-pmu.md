@@ -1,5 +1,5 @@
 ---
 order: 7
-external: GaN PMU
+external: CSKY GaN PMU
 ---
 
