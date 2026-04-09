@@ -1,6 +1,6 @@
 ---
-order: 5
-title: HARDWARE
+order: 1
+external: НСУ
 ---
 
 [view:hierarchy=none::::List]
