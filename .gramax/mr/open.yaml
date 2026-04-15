@@ -1,9 +1,0 @@
-creator: gramax-doc <d.varlamov@csky.space>
-targetBranch: main
-createdAt: '2026-04-15 08:08:25'
-approvers:
-- user: Valentin Mineev <v.mineev@csky.space>
-options:
-  deleteAfterMerge: false
-  squash: true
-description: Добавил инфу для Wing
