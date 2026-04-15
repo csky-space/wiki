@@ -51,7 +51,7 @@ title: Air-link TAG
 
 *  Интерфейс
 
-*  Full UART 3,3
+*  Full UART 3,3 В
 
 ---
 
