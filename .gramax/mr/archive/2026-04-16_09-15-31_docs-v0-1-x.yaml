@@ -1,0 +1,9 @@
+creator: gramax-doc <d.varlamov@csky.space>
+targetBranch: main
+createdAt: '2026-04-16 09:15:31'
+approvers:
+- user: krotbsod <krotbsod@gmail.com>
+  approvedAt: '2026-04-16 09:18:06'
+options:
+  deleteAfterMerge: false
+  squash: true
