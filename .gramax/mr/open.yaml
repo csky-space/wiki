@@ -1,8 +1,0 @@
-creator: krotbsod <krotbsod@gmail.com>
-targetBranch: docs/v0.1.x
-createdAt: '2026-04-21 16:36:38'
-approvers:
-- user: krotbsod <krotbsod@gmail.com>
-options:
-  deleteAfterMerge: false
-  squash: true
