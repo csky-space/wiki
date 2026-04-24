@@ -5,7 +5,7 @@ title: Руководство по быстрому запуску
 
 -  Перейдите на сайт <https://air-link.space/> и зарегистрируйте аккаунт.
 
--  Подключите AIR-LINK TAG, используя кабели из комплекта в соответствии с [«руководстве пользователя»](https://ftp.air-link.space/downloads/csky.space/user_manual/AIR_LINK%20EYE%20II%20User%20manual.pdf)
+-  Подключите AIR-LINK TAG, используя кабели из комплекта в соответствии с [«руководстве пользователя»](https://ftp.air-link.space/downloads/csky.space/user_manual/AIR_LINK%20TAG%20User%20manual.pdf)
 
 -  Войдите в аккаунт на сайте <https://air-link.space/> введите IMEI модуля в окне добавления нового устройства, нажмите кнопку «BIND» на странице сайта.
 
@@ -13,4 +13,4 @@ title: Руководство по быстрому запуску
 
 -  В списке устройств появится новое устройство
 
-#### Подробная информация об эксплуатации можно получить в [«руководстве пользователя»](https://ftp.air-link.space/downloads/csky.space/user_manual/AIR_LINK%20EYE%20II%20User%20manual.pdf)
+#### Подробная информация об эксплуатации можно получить в [«руководстве пользователя»](https://ftp.air-link.space/downloads/csky.space/user_manual/AIR_LINK%20TAG%20User%20manual.pdf)
