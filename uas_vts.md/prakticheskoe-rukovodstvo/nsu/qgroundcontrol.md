@@ -3,10 +3,10 @@ order: 2
 title: QGroundControl
 ---
 
--  **Скачать для :**
+Скачать для **:**
 
-   -  [Windows](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_windows_amd64_latest.exe)
+-  [Windows](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_windows_amd64_latest.exe)
 
-   -  [Linux](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_linux_amd64_latest.AppImage)
+-  [Linux](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_linux_amd64_latest.AppImage)
 
-   -  [Android](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_android_arm_latest.apk)
+-  [Android](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_android_arm_latest.apk)
