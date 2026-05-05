@@ -1,6 +1,6 @@
 ---
 order: 2
-title: QGC
+title: QGroundControl
 ---
 
 Скачать для :
