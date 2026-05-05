@@ -3,6 +3,7 @@ targetBranch: main
 createdAt: '2026-05-05 08:45:38'
 approvers:
 - user: krotbsod <krotbsod@gmail.com>
+  approvedAt: '2026-05-05 09:28:02'
 options:
   deleteAfterMerge: false
   squash: true
