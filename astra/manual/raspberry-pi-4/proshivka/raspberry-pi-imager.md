@@ -5,7 +5,7 @@ title: Через Raspberry Pi Imager
 
 Начало работы:
 
--  Скачать [прошивку](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-latest.zip)
+-  Скачать [прошивку](https://ftp.csky.space/firmware/astra/astra-raspios-latest.zip)
 
 -  Скачать приложение для прошивки Raspberry Pi Imager
 
@@ -26,5 +26,3 @@ title: Через Raspberry Pi Imager
 Для прошивки рекомендуется использовать SD накопитель от **30 Мбит (v30)**
 
 :::
-
-

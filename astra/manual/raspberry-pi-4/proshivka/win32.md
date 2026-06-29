@@ -3,7 +3,7 @@ order: 2
 title: Через Win32 Disk Imager
 ---
 
--  Скачать [прошивку](https://ftp.air-link.space/downloads/astra/firmware/astra-raspios-latest.zip)
+-  Скачать [прошивку](https://ftp.csky.space/firmware/astra/astra-raspios-latest.zip)
 
 -  Скачать **Win32 Disk Imager**
 
@@ -32,5 +32,3 @@ title: Через Win32 Disk Imager
 Для прошивки рекомендуется использовать SD накопитель от **30 Мбит (v30)**
 
 :::
-
-
