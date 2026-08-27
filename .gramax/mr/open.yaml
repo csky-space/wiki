@@ -1,0 +1,8 @@
+creator: krotbsod <krotbsod@gmail.com>
+targetBranch: main
+createdAt: "2026-08-27 17:30:52"
+approvers:
+  - user: Valentin Mineev <v.mineev@csky.space>
+options:
+  deleteAfterMerge: false
+  squash: false
