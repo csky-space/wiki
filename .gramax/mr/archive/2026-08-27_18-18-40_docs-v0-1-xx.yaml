@@ -1,0 +1,9 @@
+creator: krotbsod <krotbsod@gmail.com>
+targetBranch: main
+createdAt: "2026-08-27 18:18:40"
+approvers:
+  - user: krotbsod <krotbsod@gmail.com>
+    approvedAt: "2026-08-27 18:18:42"
+options:
+  deleteAfterMerge: false
+  squash: false
