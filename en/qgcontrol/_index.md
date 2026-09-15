@@ -1,5 +1,5 @@
 ---
 order: 6
-external: QGroundControl
+external: ПО наземной станции управления БПЛА Venik QGC
 ---
 
