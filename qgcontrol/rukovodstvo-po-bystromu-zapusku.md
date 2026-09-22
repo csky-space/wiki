@@ -37,7 +37,7 @@ Air-link соединяется с Airlink Stream Bridge (далее – ASB), �
 
 -  UDP port - 9050
 
-#### 5\. Создание линка для Air-link
+#### 5\. Создание линка 
 
 Перейдите на вкладку Application Settings->Comm Links. В нижней части окна нажмите “Add” - появится следующее окно.
 
