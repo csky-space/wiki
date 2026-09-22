@@ -5,7 +5,7 @@ title: QGroundControl
 
 Скачать для:
 
--  [Windows](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_windows_amd64_latest.exe)
+-  [Windows](https://ftp.csky.space/software/QGroundControl-installer.exe)
 
 -  [Linux](https://ftp.air-link.space/downloads/astra/gs/qgc/QGC_linux_amd64_latest.AppImage)
 
