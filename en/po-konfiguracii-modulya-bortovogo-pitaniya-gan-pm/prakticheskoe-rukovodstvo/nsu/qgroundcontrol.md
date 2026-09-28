@@ -1,5 +1,5 @@
 ---
 order: 2
-external: QGroundControl
+external: Avega F405 WING
 ---
 

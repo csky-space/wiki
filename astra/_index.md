@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Astra
+title: Avega F405 WING
 ---
 
 [view:hierarchy=none::::List]

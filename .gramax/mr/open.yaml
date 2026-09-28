@@ -1,0 +1,9 @@
+creator: gramax-doc <drone@csky.space>
+targetBranch: main
+createdAt: "2026-09-28 12:00:34"
+approvers:
+  - user: krotbsod <krotbsod@gmail.com>
+    approvedAt: "2026-09-28 12:06:28"
+options:
+  deleteAfterMerge: false
+  squash: false
