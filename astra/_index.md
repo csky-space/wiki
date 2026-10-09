@@ -1,6 +1,6 @@
 ---
 order: 4
-title: Avega F405 WING
+title: Astra - система удаленного управления беспилотными летальными аппаратами
 ---
 
 [view:hierarchy=none::::List]
