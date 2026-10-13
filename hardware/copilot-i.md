@@ -1,5 +1,5 @@
 ---
-title: Copilot I
+title: Avega CO-Pilot I
 order: 10
 ---
 
