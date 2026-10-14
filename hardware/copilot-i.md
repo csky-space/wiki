@@ -3,8 +3,6 @@ title: Avega CO-Pilot I
 order: 10
 ---
 
-![](./copilot-i.webp){width=1920px height=1080px scale=780px}
-
 ![](./copilot-i-4.webp){width=1920px height=1080px}
 
 
