@@ -355,7 +355,7 @@ Avega Pixhawk 6X подходит для решения широкого спе�
 
 
 
-![](./avega-pixhawk-6x.webp){width=726px height=1031px scale=459px}
+![](./avega-pixhawk-6x.webp){width=726px height=1031px scale=514px}
 
 ### Распиновка
 
