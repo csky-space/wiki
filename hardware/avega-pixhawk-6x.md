@@ -361,9 +361,7 @@ Avega Pixhawk 6X подходит для решения широкого спе�
 
 ![](./avega-pixhawk-6x-3.webp){width=1709px height=876px scale=576px}
 
-![](./avega-pixhawk-6x-4.webp){width=1651px height=889px scale=580px}
-
-![](./avega-pixhawk-6x-5.webp){width=1874px height=980px scale=585px}
+![](./avega-pixhawk-6x-4.webp){width=1171px height=637px scale=577px}
 
 ![](./avega-pixhawk-6x-6.webp){width=1067px height=1033px scale=419px}
 
