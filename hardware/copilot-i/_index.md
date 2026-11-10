@@ -141,10 +141,10 @@ order: 10
 
 ## Пример схемы подключения
 
-![](./copilot-i.webp){width=799px height=726px}
+![](./copilot-i.webp){width=827px height=777px}
 
 ## Дополнительная информация
 
-- [Схема подключения плат](./skhema-podklyucheniya-platy.md)[ы](./skhema-podklyucheniya-platy.md)
+- [Схема подключения платы](./skhema-podklyucheniya-platy.md)
 - [Установка образа системы](./ustanovka-obraza-sistemy-v-emmc.md)
 - [Примеры программ](./primery-raboty-s-platoy-avega-co-pilot-i.md)
