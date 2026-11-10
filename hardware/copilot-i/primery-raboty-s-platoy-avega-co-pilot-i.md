@@ -57,7 +57,18 @@ order: 3
 
 ## **Запуск примеров**
 
-Скачайте примеры работы платы по [ссылке](https://ftp.csky.space/firmware/copilot/copilot%20examples.zip). Распакуйте в удобную директорию в Copilot (например \~/examples/). Для запуска примеров используйте команды:
+Скачайте примеры работы платы по [ссылке](https://ftp.csky.space/firmware/copilot/copilot%20examples.zip). Распакуйте в удобную директорию в Copilot (например \~/examples/). Скопируйте файлы из распакованного архива с компьютера на плату. 
+
+*Например: для копирования из ОС Windows используйте терминал PowerShell или CMD, в котором надо выполнить команду:*
+
+*scp "C:\\Users\\user\\Downloads\\copilot_examples\\copilot\_[flow.py](http://flow.py)" root@192.168.1.100:\~/examples/ ;*
+
+*где* 
+
+- *"C:\\Users\\user\\Downloads\\copilot_examples\\copilot\_[flow.py](http://flow.py)"  - путь и сам файл, который копируем;*
+- *root@192.168.1.100:\~/examples/ - путь и папка куда копируем.*
+
+Для запуска примеров используйте команды:
 
 ```
 python3 ~/examples/copilot_stream.py
