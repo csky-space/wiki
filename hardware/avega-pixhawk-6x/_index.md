@@ -3,7 +3,7 @@ order: 5
 title: Avega Pixhawk 6X
 ---
 
-![](./avega-pixhawk-6x.png){width=1920px height=1080px}
+![](./_index.png){width=1920px height=1080px}
 
 Avega Pixhawk 6X - это промышленный полетный контроллер для профессиональных БПЛА, разработанный в соответствии с международным стандартом автопилота Pixhawk FMUv6X DS-012 и DS-010. Контроллер оснащён высокопроизводительным процессором STM серии H7, модульной конструкцией с тройным резервированием инерциальных датчиков, виброизолированной платой IMU с термостабилизацией, независимыми доменами питания и коммуникации и широчайшим набором интерфейсов, что обеспечивает высокую производительность, надёжность и гибкость в настройке и эксплуатации.
 
@@ -355,14 +355,18 @@ Avega Pixhawk 6X подходит для решения широкого спе�
 
 
 
-![](./avega-pixhawk-6x.webp){width=726px height=1031px scale=514px}
+![](./_index.webp){width=726px height=1031px scale=514px}
 
 ### Распиновка
 
-![](./avega-pixhawk-6x-3.webp){width=1709px height=876px scale=576px}
+![](./_index-3.webp){width=1709px height=876px scale=576px}
 
-![](./avega-pixhawk-6x-2.webp){width=1812px height=992px scale=577px}
+![](./_index-2.webp){width=1812px height=992px scale=577px}
 
-![](./avega-pixhawk-6x-6.webp){width=1067px height=1033px scale=419px}
+![](./_index-6.webp){width=1067px height=1033px scale=419px}
 
-![](./avega-pixhawk-6x-7.webp){width=1865px height=1011px scale=554px}
+![](./_index-7.webp){width=1865px height=1011px scale=554px}
+
+### Пример схемы подключения
+
+![](./avega-pixhawk-6x.webp){width=2941px height=4630px scale=618px}
