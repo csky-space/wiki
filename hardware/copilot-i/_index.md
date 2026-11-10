@@ -141,7 +141,7 @@ order: 10
 
 ## Пример схемы подключения
 
-![](./copilot-i.webp){width=827px height=777px}
+![](./copilot-i.webp){width=827px height=742px}
 
 ## Дополнительная информация
 
