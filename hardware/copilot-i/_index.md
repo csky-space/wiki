@@ -145,6 +145,6 @@ order: 10
 
 ## Дополнительная информация
 
-- [Схема подключения платы](./skhema-podklyucheniya-platy.md)
+- [Схема подключения плат](./skhema-podklyucheniya-platy.md)[ы](./skhema-podklyucheniya-platy.md)
 - [Установка образа системы](./ustanovka-obraza-sistemy-v-emmc.md)
 - [Примеры программ](./primery-raboty-s-platoy-avega-co-pilot-i.md)
