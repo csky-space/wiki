@@ -369,4 +369,4 @@ Avega Pixhawk 6X подходит для решения широкого спе�
 
 ## Пример схемы подключения
 
-![](./avega-pixhawk-6x.webp){width=2941px height=4630px scale=618px}
+![](./avega-pixhawk-6x.webp){width=3300px height=4681px}
