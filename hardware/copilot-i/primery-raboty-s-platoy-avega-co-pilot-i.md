@@ -61,12 +61,12 @@ order: 3
 
 *Например: для копирования из ОС Windows используйте терминал PowerShell или CMD, в котором надо выполнить команду:*
 
-*scp "C:\\Users\\user\\Downloads\\copilot_examples\\copilot\_[flow.py](http://flow.py)" root@192.168.1.100:\~/examples/ ;*
+***scp "C:\\Users\\user\\Downloads\\copilot_examples\\copilot\_[flow.py](http://flow.py)" root@192.168.1.100:\~/** ;*
 
 *где*
 
-- *"C:\\Users\\user\\Downloads\\copilot_examples\\copilot\_[flow.py](http://flow.py)"  - путь и сам файл, который копируем;*
-- *root@192.168.1.100:\~/examples/ - путь и папка куда копируем.*
+- ***"C:\\Users\\user\\Downloads\\copilot_examples\\copilot\_[flow.py](http://flow.py)"**  \- путь и сам файл, который копируем;*
+- ***root@192.168.1.100:\~/** \- путь куда копируем.*
 
 Для запуска примеров используйте команды:
 
