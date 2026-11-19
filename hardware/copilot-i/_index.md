@@ -148,3 +148,4 @@ order: 10
 - [Схема работы с примером](./skhema-podklyucheniya-platy.md)
 - [Установка образа системы](./ustanovka-obraza-sistemy-v-emmc.md)
 - [Примеры программ](./primery-raboty-s-platoy-avega-co-pilot-i.md)
+- [Электрическая схема платы](https://ftp.csky.space/firmware/copilot/H616_sheet.pdf)
