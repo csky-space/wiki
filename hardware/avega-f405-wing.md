@@ -399,8 +399,14 @@ Avega F405 WING оснащён платой беспроводной связи 
 
 ## Распиновка
 
+![](./avega-f405-wing-3.webp){width=877px height=1008px scale=448px}
 
+![](./avega-f405-wing-4.webp){width=1723px height=968px scale=450px}
+
+![](./avega-f405-wing-5.webp){width=1529px height=970px scale=448px}
+
+![](./avega-f405-wing-6.webp){width=847px height=1017px scale=449px}
 
 ## Пример схемы подключения
 
-![](./avega-f405-wing-2.webp){width=2957px height=3601px}
+![](./avega-f405-wing-2.webp){width=2957px height=3601px scale=780px}
