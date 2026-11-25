@@ -361,13 +361,13 @@ Avega F405 WING - компактный полётный контроллер с 
 
 ## Распиновка
 
-![](./_index-3.webp){width=877px height=1008px scale=448px}
+![](./avega-f405-wing-2.webp){width=914px height=1016px scale=555px}
 
-![](./_index-4.webp){width=1723px height=968px scale=450px}
+![](./avega-f405-wing-3.webp){width=1581px height=907px scale=551px}
 
-![](./_index-5.webp){width=1529px height=970px scale=448px}
+![](./avega-f405-wing-4.webp){width=1409px height=907px scale=551px}
 
-![](./_index-6.webp){width=847px height=1017px scale=449px}
+![](./avega-f405-wing-5.webp){width=702px height=936px scale=548px}
 
 ## Пример схемы подключения
 
