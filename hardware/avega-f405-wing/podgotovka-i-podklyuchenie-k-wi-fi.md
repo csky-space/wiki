@@ -17,7 +17,7 @@ order: 1
    - SSID: *DroneBridge for ESP32* (или аналогичное название).
    - Пароль по умолчанию: *dronebridge*.
 
-![](./podgotovka-i-podklyuchenie-k-wi-fi-2.webp){width=586px height=414px scale=574px}
+     ![](./podgotovka-i-podklyuchenie-k-wi-fi-5.webp){width=542px height=380px}
 
 ## **Настройка батареи через веб‑интерфейс**
 
