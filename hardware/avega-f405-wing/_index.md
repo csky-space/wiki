@@ -371,4 +371,4 @@ Avega F405 WING - компактный полётный контроллер с 
 
 ## Пример схемы подключения
 
-![](./_index-2.webp){width=2957px height=3601px scale=780px}
+![](./avega-f405-wing-6.webp){width=2957px height=3601px scale=780px}
